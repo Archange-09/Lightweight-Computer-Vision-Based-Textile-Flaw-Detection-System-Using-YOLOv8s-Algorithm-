@@ -14,7 +14,7 @@
 ---
 
 ## 📝 Abstract
-This project implements a lightweight textile flaw detection system designed for real-time industrial application. By leveraging the **YOLOv8s** architecture and a **FastAPI** backend, the system identifies and localizes textile defects with high precision. The model was trained on a high-quality, specialized dataset to ensure robustness in various lighting and texture conditions common in textile manufacturing.
+This project implements a lightweight textile flaw detection system designed for real-time application. By leveraging the **YOLOv8s** architecture and a **FastAPI** backend, the system identifies and localizes textile defects with high precision. The model was trained on a high-quality, specialized dataset to ensure robustness in various lighting and texture conditions common in textile manufacturing.
 
 ## 🚀 System Features
 * **Real-time Detection:** Optimized YOLOv8s weights for low-latency inference.
