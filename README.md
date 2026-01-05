@@ -21,7 +21,8 @@ This project implements a lightweight textile flaw detection system designed for
 * **Lightweight Model:** YOLOV8s offers balance between speed and accuracy which truly describes its lightweight nature.
 * **High Quality Data Used** The model was trained with handpicked data from numerous certified datasets.
 
-REPO
+## 📂 Project Structure
+```
 ├── static/              # CSS, JS, and uploaded textile images
 ├── templates/           # index.html (your frontend)
 ├── .gitignore           # (The file we created to hide pycache)
